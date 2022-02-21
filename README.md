@@ -2,4 +2,4 @@
 
 ## Simple exemple of a chat using javascript
 
-### Utilzando no projeto https://github.com/Marcoantonioo/chat-app-flutter
+### Used in project https://github.com/Marcoantonioo/chat-app-flutter
